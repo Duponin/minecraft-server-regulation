@@ -1,0 +1,7 @@
+mail-account=user@domain.com
+mail-password=foobar
+mail-port=465
+mail-address=mail.server.domain.com
+
+mc-hook=Lorem ipsum
+mc-server=bungeecord
